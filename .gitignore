@@ -12,5 +12,17 @@ node_modules/
 # OS
 .DS_Store
 
+# OS (Windows)
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Environment files
+*.env
+
+# Compiled files
+*.class
+
 # Env
 application.properties
